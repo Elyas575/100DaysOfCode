@@ -1,0 +1,49 @@
+
+.next-btn{
+display: block;
+background-color:lightblue;
+border:solid;
+cursor: pointer;
+width: 100px;
+height: 40px;
+border-radius: 12px;
+opacity: 1;
+}
+
+.next-btn:hover{
+  opacity: 0.6;
+  background-color:yellow;
+}
+
+.next-btn:active{
+  opacity: 1;
+}
+
+.Text-section{
+  background-color: lightblue;
+  display: inline-block;
+  margin-right:10px;
+  padding: 40px;
+  border-radius: 10px;
+}
+
+.Card{
+  background:url('');
+  background-repeat: no-repeat;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  padding-top:100px;
+
+}
+
+.image-section{
+  display: inline-block;
+
+}
+.image{
+  border-radius: 10px;
+  max-width: 450px;
+  max-height: 450px;
+}
+
