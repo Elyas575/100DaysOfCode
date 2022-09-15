@@ -1,0 +1,30 @@
+body{
+  background-color: grey;
+}
+
+.lmao{
+
+}
+
+.parent{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  min-height: 50vh;
+  margin-top: 100px;
+  background-color: grey;
+  
+}
+
+.child{
+  padding: 100px;
+  font-size:xx-large;
+  border: solid;
+  
+  font-family: 'Courier New', Courier, monospace;
+
+  background-color: lightblue;
+  width: 700px;
+  margin:0 auto;
+  border-radius: 10px;
+}
