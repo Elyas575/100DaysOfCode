@@ -1,0 +1,25 @@
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  min-height: 100vh;
+  padding: 5rem;
+}
+
+body.dark{
+  background-color: #1f1f1f;
+  color: white;
+}
+
+.toggle-container{
+  position: fixed;
+  top:10px;
+  right:10px;
+  
+
+}
+
+input{
+  visibility: hidden;
+}
